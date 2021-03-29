@@ -1,0 +1,10 @@
+body{
+    width: 820px;
+    height: 1060px;
+    margin: 0;
+}
+.testpic{
+    background-image: url(../img/tone_test.png);
+    width: 820px;
+    height: 1060px;background-size: cover;
+}
